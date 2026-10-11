@@ -1,16 +1,37 @@
-## Hi there 👋
+# Dr. Joseph J. Brooks
 
-<!--
-**josephbrooks-se/josephbrooks-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Systems Engineer specializing in model-based systems
+engineering, digital engineering, mission engineering, secure
+architectures, and AI-enabled requirements engineering.
 
-Here are some ideas to get you started:
+## Core Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Model-Based Systems Engineering
+- SysML and Architecture Development
+- Digital Engineering and Digital Threads
+- Mission Engineering
+- Requirements Engineering and Traceability
+- Secure Cloud and Zero Trust Architecture
+- AI-Enabled Systems Engineering
+- Technical Leadership and R&D Assessment
+
+## Featured MBSE Projects
+
+- Secure Mission Workflow Architecture
+- Modular Cloud Shared Services Reference Architecture
+- AI-Assisted Requirements Quality Framework
+
+## Research and Publications
+
+- AI-Driven Requirements for SysML Modeling of Internet of
+  Battlefield Things Systems
+
+## Tools and Methods
+
+Cameo Systems Modeler, SysML, DoDAF, DOORS, requirements
+traceability, trade studies, risk analysis, architecture reviews,
+and technical roadmapping.
+
+## Contact
+
+Connect with me on LinkedIn.
